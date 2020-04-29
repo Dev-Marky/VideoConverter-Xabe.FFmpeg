@@ -760,11 +760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Toshiba\\source\\repos\\ConsoleConverter\\ConsoleConverter\\ConsoleConverter.csproj",
+      "projectUniqueName": "C:\\Samples\\VideoConverter-Xabe.FFmpeg\\ConsoleConverter\\ConsoleConverter\\ConsoleConverter.csproj",
       "projectName": "ConsoleConverter",
-      "projectPath": "C:\\Users\\Toshiba\\source\\repos\\ConsoleConverter\\ConsoleConverter\\ConsoleConverter.csproj",
+      "projectPath": "C:\\Samples\\VideoConverter-Xabe.FFmpeg\\ConsoleConverter\\ConsoleConverter\\ConsoleConverter.csproj",
       "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Toshiba\\source\\repos\\ConsoleConverter\\ConsoleConverter\\obj\\",
+      "outputPath": "C:\\Samples\\VideoConverter-Xabe.FFmpeg\\ConsoleConverter\\ConsoleConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

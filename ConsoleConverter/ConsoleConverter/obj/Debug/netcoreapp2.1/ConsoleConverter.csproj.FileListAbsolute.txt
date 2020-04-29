@@ -9,3 +9,14 @@ C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcor
 C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.pdb
 C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.dll
 C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.pdb
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.deps.json
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.runtimeconfig.json
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.runtimeconfig.dev.json
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.dll
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.pdb
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.csprojAssemblyReference.cache
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.csproj.CoreCompileInputs.cache
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.AssemblyInfoInputs.cache
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.AssemblyInfo.cs
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.dll
+C:\Samples\VideoConverter-Xabe.FFmpeg\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.pdb
