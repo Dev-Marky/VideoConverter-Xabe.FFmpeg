@@ -1,0 +1,11 @@
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.deps.json
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.runtimeconfig.json
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.dll
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.csprojAssemblyReference.cache
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp2.1\ConsoleConverter.pdb
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.dll
+C:\Users\Toshiba\source\repos\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp2.1\ConsoleConverter.pdb
